@@ -1,0 +1,25 @@
+[
+  {"id":"tokyo","name":"東京","englishName":"Tokyo","region":"kanto","regionLabel":"關東","tagline":"城市節奏與傳統文化交會","description":"從熱鬧的澀谷街頭到寧靜的淺草寺，東京適合喜歡購物、美食與文化探索的旅人。","emoji":"🗼","theme":"tokyo","attractions":[{"name":"淺草寺","description":"感受東京傳統街區與寺院文化。"},{"name":"明治神宮","description":"在都市中心享受綠意與寧靜。"},{"name":"澀谷十字路口","description":"體驗東京繁華的街頭景象。"}],"foods":["壽司","拉麵","文字燒"],"transport":"以 JR 與東京地下鐵為主要交通工具，出發前確認路線及營運資訊。","tips":"熱門景點假日人潮較多，建議提早規劃。"},
+  {"id":"kyoto","name":"京都","englishName":"Kyoto","region":"kansai","regionLabel":"關西","tagline":"古都巷弄裡的四季風景","description":"京都擁有歷史悠久的神社寺院、傳統街道與豐富的季節景觀。","emoji":"⛩️","theme":"kyoto","attractions":[{"name":"清水寺","description":"欣賞古都街景與傳統建築。"},{"name":"伏見稻荷大社","description":"漫步於著名的千本鳥居。"},{"name":"嵐山","description":"探索竹林與周邊自然景色。"}],"foods":["湯豆腐","抹茶甜點","京料理"],"transport":"可搭乘鐵路與公車；部分景點之間步行也很方便。","tips":"參訪寺社時留意開放時間與拍照規範。"},
+  {"id":"osaka","name":"大阪","englishName":"Osaka","region":"kansai","regionLabel":"關西","tagline":"熱情街道與庶民美食天堂","description":"大阪以活力十足的商圈、經典地標與豐富的街頭美食聞名。","emoji":"🏯","theme":"osaka","attractions":[{"name":"大阪城公園","description":"走訪大阪代表性的歷史地標。"},{"name":"道頓堀","description":"體驗霓虹街景與美食文化。"},{"name":"通天閣","description":"感受新世界商圈的懷舊氛圍。"}],"foods":["章魚燒","大阪燒","串炸"],"transport":"大阪 Metro 與私鐵網絡便利，依景點選擇合適路線。","tips":"熱門餐廳可能需要排隊，建議預留用餐時間。"},
+  {"id":"sapporo","name":"札幌","englishName":"Sapporo","region":"hokkaido","regionLabel":"北海道","tagline":"北國風景與暖心美食","description":"札幌是北海道的重要城市，擁有寬敞街道、四季景色與獨特的北國飲食文化。","emoji":"❄️","theme":"sapporo","attractions":[{"name":"大通公園","description":"在市中心享受四季不同的公園風景。"},{"name":"北海道大學","description":"漫步校園，欣賞林蔭與歷史建築。"},{"name":"札幌市時計台","description":"走訪札幌具代表性的歷史建築。"}],"foods":["味噌拉麵","湯咖哩","海鮮丼"],"transport":"市區可利用地下鐵與步行，冬季需留意積雪及路況。","tips":"冬季氣溫低，建議準備保暖衣物與防滑鞋。"},
+  {
+    "id": "fukuoka",
+    "name": "福岡",
+    "englishName": "Fukuoka",
+    "region": "kyushu",
+    "regionLabel": "九州",
+    "tagline": "海風街景與博多在地滋味",
+    "description": "福岡位於九州北部，結合博多的傳統文化、天神的城市活力與海濱風景。從公園散步到品嚐博多美食，適合以悠閒步調探索街區。",
+    "emoji": "🍜",
+    "theme": "tokyo",
+    "attractions": [
+      {"name": "大濠公園", "description": "沿著池畔散步，在市區感受水景與綠意。"},
+      {"name": "櫛田神社", "description": "走訪博多代表性的神社，認識在地信仰與祭典文化。"},
+      {"name": "福岡塔", "description": "探訪百道濱一帶的海濱地標，欣賞城市與博多灣景色。"}
+    ],
+    "foods": ["博多豚骨拉麵", "明太子", "水炊雞肉鍋"],
+    "transport": "市區可利用福岡市地下鐵、公車與步行；博多站可轉乘 JR，天神一帶可利用西鐵。福岡機場的地下鐵站位於國內線航廈，搭乘國際線的旅客請先確認航廈間轉乘方式與最新交通資訊。",
+    "tips": "參訪神社時請遵守參拜與攝影規範；若想體驗屋台，出發前確認當日營業情況，並留意現場菜單與用餐規則。"
+  }
+]
